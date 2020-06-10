@@ -16,7 +16,7 @@ function Room() {
         <br />
         <img
           src={"https://thumbs.dreamstime.com/b/water-drip-8331601.jpg"}
-          class="center"
+          class="center" alt="drop in a ocean"
         />
 
         <br />
